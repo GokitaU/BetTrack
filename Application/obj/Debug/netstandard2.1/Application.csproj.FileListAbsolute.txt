@@ -1,0 +1,13 @@
+C:\Users\awilk\Documents\programming-drive\code\c#\BetTrack\Application\bin\Debug\netstandard2.1\Application.deps.json
+C:\Users\awilk\Documents\programming-drive\code\c#\BetTrack\Application\bin\Debug\netstandard2.1\Application.dll
+C:\Users\awilk\Documents\programming-drive\code\c#\BetTrack\Application\bin\Debug\netstandard2.1\Application.pdb
+C:\Users\awilk\Documents\programming-drive\code\c#\BetTrack\Application\bin\Debug\netstandard2.1\Domain.dll
+C:\Users\awilk\Documents\programming-drive\code\c#\BetTrack\Application\bin\Debug\netstandard2.1\Persistence.dll
+C:\Users\awilk\Documents\programming-drive\code\c#\BetTrack\Application\bin\Debug\netstandard2.1\Domain.pdb
+C:\Users\awilk\Documents\programming-drive\code\c#\BetTrack\Application\bin\Debug\netstandard2.1\Persistence.pdb
+C:\Users\awilk\Documents\programming-drive\code\c#\BetTrack\Application\obj\Debug\netstandard2.1\Application.csprojAssemblyReference.cache
+C:\Users\awilk\Documents\programming-drive\code\c#\BetTrack\Application\obj\Debug\netstandard2.1\Application.AssemblyInfoInputs.cache
+C:\Users\awilk\Documents\programming-drive\code\c#\BetTrack\Application\obj\Debug\netstandard2.1\Application.AssemblyInfo.cs
+C:\Users\awilk\Documents\programming-drive\code\c#\BetTrack\Application\obj\Debug\netstandard2.1\Application.csproj.CopyComplete
+C:\Users\awilk\Documents\programming-drive\code\c#\BetTrack\Application\obj\Debug\netstandard2.1\Application.dll
+C:\Users\awilk\Documents\programming-drive\code\c#\BetTrack\Application\obj\Debug\netstandard2.1\Application.pdb
